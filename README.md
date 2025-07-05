@@ -1,7 +1,7 @@
 ## Facial Expression Recognition
 Implemented 4 layere CNN model for classifying facial expressions into 7 emotion categories.
 
-##Features
+## Features
 
 Data augmentation for class imbalance
 Grayscale image preprocessing (48x48)
