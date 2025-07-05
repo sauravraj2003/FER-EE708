@@ -1,5 +1,5 @@
 ## Facial Expression Recognition
-Implemented 4 layere CNN model for classifying facial expressions into 7 emotion categories.
+Implemented a 4-layer CNN model for classifying facial expressions into 7 emotion categories.
 
 ## Features
 
